@@ -1,0 +1,22 @@
+{
+    "name": "pdyn/testing",
+    "description": "A collection of utilities to assist with testing.",
+    "type": "library",
+    "keywords": ["testing", "phpunit"],
+    "homepage": "https://pdyn.net",
+    "license": "GPL-3.0+",
+    "authors": [
+    	{
+    		"name": "James McQuillan",
+            "email": "james@pdyn.net",
+            "role": "Developer"
+    	}
+    ],
+    "support": {
+    	"email": "support@pdyn.net"
+    },
+    "version": "1.0.0",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
