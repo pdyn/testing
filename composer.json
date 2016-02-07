@@ -18,5 +18,10 @@
     "version": "1.0.0",
     "require": {
         "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "pdyn\\testing\\": "."
+        }
     }
 }
