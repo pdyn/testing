@@ -24,6 +24,8 @@ namespace pdyn\testing;
 
 /**
  * A trait that can be used in test to allow access to all protected/private properties and methods.
+ *
+ * @codeCoverageIgnore
  */
 trait AccessibleObjectTrait {
 	/**
